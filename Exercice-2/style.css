@@ -1,0 +1,17 @@
+.bord {
+    border: 1px solid black;
+}
+
+.bodrer {
+    border: 1px solid black;
+}
+
+.height-div{
+    height: 800px;
+}
+
+div > div {
+    width: 70%;
+    height: 80%;
+}
+

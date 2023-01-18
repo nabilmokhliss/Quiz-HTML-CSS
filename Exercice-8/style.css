@@ -1,0 +1,11 @@
+img {
+    width: 300px;
+    position: absolute;
+    top: 70px;
+    left: 800px;
+}
+
+img:hover {
+    transform: rotate(90deg);
+    transition-duration: 4s;
+}
